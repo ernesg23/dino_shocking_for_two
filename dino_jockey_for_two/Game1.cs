@@ -3,14 +3,11 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using MonoGameLibrary;
 
-namespace dino_shocking_for_two;
+namespace dino_jockey_for_two;
 
 public class Game1 : Core
 {
-    private GraphicsDeviceManager _graphics;
-    private SpriteBatch _spriteBatch;
-
-    public Game1() : base("Dino Shocking", 1920, 1080, true)
+    public Game1() : base("Dino Jockey", 1280, 720, true)
     {
         
     }

@@ -274,11 +274,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alumno\\Documents\\dino_shocking_for_two\\MonoGameLibrary\\MonoGameLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Alumno\\Documents\\Eduardo_Vasquez_y_Ernesto_Gallego-TP2_Juego_2D-Dino_Jockey_For_Two\\MonoGameLibrary\\MonoGameLibrary.csproj",
       "projectName": "MonoGameLibrary",
-      "projectPath": "C:\\Users\\Alumno\\Documents\\dino_shocking_for_two\\MonoGameLibrary\\MonoGameLibrary.csproj",
+      "projectPath": "C:\\Users\\Alumno\\Documents\\Eduardo_Vasquez_y_Ernesto_Gallego-TP2_Juego_2D-Dino_Jockey_For_Two\\MonoGameLibrary\\MonoGameLibrary.csproj",
       "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alumno\\Documents\\dino_shocking_for_two\\MonoGameLibrary\\obj\\",
+      "outputPath": "C:\\Users\\Alumno\\Documents\\Eduardo_Vasquez_y_Ernesto_Gallego-TP2_Juego_2D-Dino_Jockey_For_Two\\MonoGameLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

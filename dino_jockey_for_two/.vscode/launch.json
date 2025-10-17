@@ -5,10 +5,10 @@
     "version": "0.2.0",
     "configurations": [
       {
-        "name": "C#: dino_shocking_for_two Debug",
+        "name": "C#: dino_jockey_for_two Debug",
         "type": "dotnet",
         "request": "launch",
-        "projectPath": "${workspaceFolder}/dino_shocking_for_two.csproj"
+        "projectPath": "${workspaceFolder}/dino_jockey_for_two.csproj"
       }
     ],
   }
