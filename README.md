@@ -1,4 +1,4 @@
-# 🎮 dino_shocking_for_two: dino_chromo_returns
+# 🎮 dino_jockey_for_two: dino_chromo_returns
 
 ## 📌 Descripción
 Este proyecto es un videojuego desarrollado como parte de las actividades académicas de la **Escuela Técnica N°26 "Confederación Suiza"**.  
